@@ -1,6 +1,7 @@
 site:
   title: Container Management Demo
   start_page: cm-demo::index.adoc
+  url: https://mpbravo.github.io/cm-demo/
 
 content:
   sources:
