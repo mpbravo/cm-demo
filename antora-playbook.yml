@@ -1,6 +1,6 @@
 site:
-  title: Hello
-  start_page: hello::index.adoc
+  title: Container Management Demo
+  start_page: cm-demo::index.adoc
 
 content:
   sources:

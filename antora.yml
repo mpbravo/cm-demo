@@ -1,6 +1,6 @@
-name: hello
-title: Hello
-version: 1
+name: cm-demo
+title: Container Management Demo
+version: 0.1
 nav:
 - modules/ROOT/nav.adoc
 - modules/chapter1/nav.adoc
